@@ -43,6 +43,6 @@ A simple console-based Number Guessing Game built in Java. The program generates
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Khushi Damani**
